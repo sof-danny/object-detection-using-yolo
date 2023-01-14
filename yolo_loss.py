@@ -1,3 +1,4 @@
+"""This is the loss function. The heart of YOLO"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
